@@ -21,7 +21,7 @@ Swingle Rent A Car, kullanıcıların araç kiralama işlemlerini kolayca gerçe
 ## Ekran Görüntüleri
 
 ![Araç Seçimi](https://github.com/wvazabi/Rent-A-Car-Project/blob/main/Images/car.png)
-![Kiralama Detayları]([screenshots/rental_details.png](https://github.com/wvazabi/Rent-A-Car-Project/blob/main/Images/newbook.png))
+![Kiralama Detayları](https://github.com/wvazabi/Rent-A-Car-Project/blob/main/Images/newbook.png)
 
 ## Kurulum
 
