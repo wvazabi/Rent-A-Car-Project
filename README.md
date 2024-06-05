@@ -9,8 +9,6 @@ Swingle Rent A Car, kullanıcıların araç kiralama işlemlerini kolayca gerçe
 - [Ekran Görüntüleri](#ekran-görüntüleri)
 - [Kurulum](#kurulum)
 - [Kullanım](#kullanım)
-- [Katkıda Bulunma](#katkıda-bulunma)
-- [Lisans](#lisans)
 
 ## Özellikler
 
@@ -49,13 +47,4 @@ Swingle Rent A Car, kullanıcıların araç kiralama işlemlerini kolayca gerçe
 2. Araç detaylarını görüntüleyin ve kiralama tarihlerini girin.
 3. Kiralama işlemini tamamlamak için gerekli bilgileri doldurun ve onaylayın.
 
-## Katkıda Bulunma
-
-Katkıda bulunmak isterseniz lütfen aşağıdaki adımları izleyin:
-
-1. Bu depoyu forklayın.
-2. Yeni bir dal (`feature-isim`) oluşturun.
-3. Değişikliklerinizi yapın ve commit edin (`git commit -am 'Yeni özellik ekledim'`).
-4. Dalınıza push edin (`git push origin feature-isim`).
-5. Bir Pull Request açın.
 
